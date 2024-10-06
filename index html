@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>My website</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <script src="Untitled-1.js"></script>
+        <div class="box">
+            <h1>Hellow word</h1>
+        </div>
+    </body>
+</html>
